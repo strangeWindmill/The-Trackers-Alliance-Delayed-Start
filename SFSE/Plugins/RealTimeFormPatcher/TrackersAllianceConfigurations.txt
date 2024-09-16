@@ -1,0 +1,13 @@
+[Global]
+# Default. Uncomment to revert to default settings.
+#sw_ttad_TrackersMissionCount|val(5)
+#sw_ttad_UseBountiesCompleted|val(1)
+
+# No Restrictions. Uncomment to ignore how many bounties have been completed.
+#sw_ttad_UseBountiesCompleted|val(0)
+
+# Lower counts needed. Uncomment/adjust to values less than 5 to require fewer missions.
+#sw_ttad_TrackersMissionCount|val(3)
+
+# Higher counts needed. Uncomment/adjust to values less than 5 to require fewer missions.
+#sw_ttad_TrackersMissionCount|val(10)
